@@ -3,9 +3,9 @@
 
 ## 🌾 Real-Time Agricultural Commodity Price Prediction & Analysis System
 
-**Project Title:** Agricultural Commodities Price Prediction
-**Domain:** AgriTech | Machine Learning | Real-Time Data Analytics
-**Tech Stack:** Python, Pandas, Scikit-learn, Plotly, Streamlit
+**Project Title:** Agricultural Commodities Price Prediction<br>
+**Domain:** AgriTech | Machine Learning | Real-Time Data Analytics<br>
+**Tech Stack:** Python, Pandas, Scikit-learn, Plotly, Streamlit<br>
 
 ---
 
