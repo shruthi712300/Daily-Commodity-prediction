@@ -1,4 +1,4 @@
-# Daily Commodity prediction
+# UZHAVA
 
 
 ## 🌾 Real-Time Agricultural Commodity Price Prediction & Analysis System
